@@ -62,7 +62,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         // saving the instance that created
         // getting content view of it .
-
         setContentView(R.layout.activity_main);
     }
 }
